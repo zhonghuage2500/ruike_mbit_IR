@@ -25,7 +25,7 @@
 
 
     declare enum RemoteButton {
-	  Power = 0x0,
+	  电源 = 0x0,
 	  Up = 0x1,
 	  Left = 0x4,
 	  Right = 0x6,
