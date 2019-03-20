@@ -39,16 +39,26 @@ declare enum RemoteButton {
     Minus = 0xe,
     TLeft = 0x8,
     TRight = 0xA,
-    数字0 = 0x16,
-    数字1 = 0x0C,
-    数字2 = 0x18,
-    数字3 = 0x5E,
-    数字4 = 0x08,
-    数字5 = 0x1C,
-    数字6 = 0x5A,
-    数字7 = 0x42,
-    数字8 = 0x52,
-    数字9 = 0x4A,
+    //% blockId="NUM0" block="0"
+    NUM0 = 0x16,
+    //% blockId="NUM1" block="1"
+    NUM1 = 0x0C,
+    //% blockId="NUM2" block="2"
+    NUM2 = 0x18,
+    //% blockId="NUM3" block="3"
+    NUM3 = 0x5E,
+    //% blockId="NUM4" block="4"
+    NUM4 = 0x08,
+    //% blockId="NUM5" block="5"
+    NUM5 = 0x1C,
+    //% blockId="NUM6" block="6"
+    NUM6 = 0x5A,
+    //% blockId="NUM7" block="7"
+    NUM7 = 0x42,
+    //% blockId="NUM8" block="8"
+    NUM8 = 0x52,
+    //% blockId="NUM9" block="9"
+    NUM9 = 0x4A,
 }
 declare namespace Mbit_IR {
 }
