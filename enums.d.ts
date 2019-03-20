@@ -24,8 +24,9 @@
     }
 
 
-    declare enum RemoteButton {
-	  电源 = 0x0,
+declare enum RemoteButton {
+      //% blockId="Power" block="电源"
+	  Power = 0x0,
 	  上 = 0x1,
 	  左 = 0x4,
 	  右 = 0x6,
