@@ -1,7 +1,7 @@
 {
-    "name": "China_mbit_IR",
+    "name": "RuiKe_mbit_IR",
     "version": "1.0.0",
-    "description": "Extension for China m:bit IR receiver module",
+    "description": "Extension for RuiKe m:bit IR receiver module",
     "license": "MIT",
     "dependencies": {
         "core": "*"
