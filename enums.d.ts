@@ -24,27 +24,27 @@ declare enum Pins {
 
 declare enum RemoteButton {
     //% blockId="Power" block="电源"
-    Power = 0x0,
+    Power = 0x45,
     //% blockId="Up" block="上"
-    Up = 0x1,
+    Up = 0x40,
     //% blockId="Left" block="左"
-    Left = 0x4,
+    Left = 0x07,
     //% blockId="Right" block="右"
-    Right = 0x6,
+    Right = 0x09,
     //% blockId="Down" block="下"
-    Down = 0x9,
+    Down = 0x19,
     //% blockId="Light" block="灯"
-    Light = 0x2,
+    Light = 0x0D,
     //% blockId="BEEP" block="蜂鸣器"
-    BEEP = 0x5,
+    BEEP = 0x47,
     //% blockId="Plus" block="MODE"
-    Plus = 0xc,
+    Plus = 0x44,
     //% blockId="Minus" block="MENU"
-    Minus = 0xe,
+    Minus = 0x46,
     //% blockId="TLeft" block="向左转"
-    TLeft = 0x8,
+    TLeft = 0x43,
     //% blockId="TRight" block="向右转"
-    TRight = 0xA,
+    TRight = 0x15,
     //% blockId="NUM0" block="0"
     NUM0 = 0x16,
     //% blockId="NUM1" block="1"
