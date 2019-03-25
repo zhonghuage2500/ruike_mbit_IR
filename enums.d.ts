@@ -33,7 +33,7 @@ declare enum RemoteButton {
     Right = 0x6,
     //% blockId="Down" block="下"
     Down = 0x9,
-    //% blockId="Light" block=""灯
+    //% blockId="Light" block="灯"
     Light = 0x2,
     //% blockId="BEEP" block="蜂鸣器"
     BEEP = 0x5,
